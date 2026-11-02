@@ -1,0 +1,21 @@
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Секреты и настройки
+.env
+*.env
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Mac мусор
+.DS_Store
+
+# Docker
+postgres_data/
